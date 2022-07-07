@@ -1,4 +1,4 @@
-package reduceExample;
+package example;
 
 public class TravelCustomer {
 	private String name;
@@ -38,5 +38,5 @@ public class TravelCustomer {
 	public String toString() {
 		return "name: " + name + "age: " + age + "price: "+ price;
 	}
-	
 }
+
