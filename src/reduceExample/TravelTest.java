@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 //람다식과 스트림의 활용.
-
 public class TravelTest {
 /*
  * 시나리오
