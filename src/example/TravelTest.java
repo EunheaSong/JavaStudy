@@ -32,4 +32,5 @@ public class TravelTest {
 		System.out.println("===나이가 30세 이상인 고객 명단 정렬하여 출력===");
 		customerList.stream().filter(c -> c.getAge() >= 30).map(c -> c.getName()).sorted().forEach(s->System.out.println(s));
 	}
+	
 }
